@@ -1,0 +1,20 @@
+"Tokens"
+{
+	"CFG_RESET"               "RESET \n (!r) \n  \n  \n  \n  \n "
+	"CFG_KICKBOTS"            "KICK BOTS \n (toggle) \n  \n  \n  \n  \n "
+	"CFG_ADD_T"               "ADD A \n T BOT \n  \n  \n  \n  \n "
+	"CFG_ADD_CT"              "ADD A \n CT BOT \n  \n  \n  \n  \n "
+	"CFG_BUYZONE"             "INFINITE BUYZONE \n (toggle) \n  \n  \n  \n  \n "
+	"CFG_RESTART"             "RESTART ROUND \n  \n  \n  \n  \n "
+	"CFG_END_WARMUP"          "END WARMUP \n  \n  \n  \n  \n "
+	"CFG_INFINITE_WARMUP"     "INFINITE WARMUP \n (toggle) \n  \n  \n  \n  \n "
+	
+	"CFG_NOCLIP"              "NOCLIP \n (toggle) \n  \n  \n  \n  \n "
+	"CFG_NOSPREAD"            "NO SPREAD \n 100% ACCURATE \n (toggle) \n  \n  \n  \n  \n "
+	"CFG_INFINITE_AMMO"       "INFINITE AMMO \n (toggle) \n  \n  \n  \n  \n "
+	"CFG_INFINITE_MONEY"      "INFINITE MONEY \n (toggle) \n  \n  \n  \n  \n "
+	"CFG_TRAJECTORY"          "GRENADE TRAJECTORY \n (toggle) \n  \n  \n  \n  \n "
+	"CFG_RETHROW"             "RETHROW \n LAST GRENADE \n  \n  \n  \n  \n "
+	"CFG_DELSMOKE"            "DELETE SMOKES \n  \n  \n  \n  \n "
+	"CFG_GODMODE"             "GOD MODE \n (toggle) \n  \n  \n  \n  \n "
+}
