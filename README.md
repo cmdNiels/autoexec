@@ -6,7 +6,10 @@ This repository contains autoexec files for Counter-Strike 2.
 
 1. **Clone this repository** directly into your CS2 game directory:
    ```bash
-   git clone https://github.com/cmdNiels/autoexec .
+	git init
+	git remote add origin https://github.com/cmdNiels/autoexec
+	git fetch
+	git reset --hard origin/main
    ```
 
 2. **Replace existing files** when prompted - choose **Yes** to overwrite any existing configuration files.
