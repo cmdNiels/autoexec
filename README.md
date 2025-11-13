@@ -8,13 +8,23 @@ This repository contains autoexec files for Counter-Strike 2.
    ```bash
 	git init
 	git remote add origin https://github.com/cmdNiels/autoexec
-	git fetch
+	git fetch --depth 1
 	git reset --hard origin/master
    ```
 
-2. **Replace existing files** when prompted - choose **Yes** to overwrite any existing configuration files.
+2. **Launch CS2** and the autoexec will be automatically loaded.
 
-3. **Launch CS2** and your autoexec will be automatically loaded.
+## Update Instructions
+
+1. **Pull the latest changes** from your CS2 game directory:
+   ```bash
+   git pull origin master --depth 1 --force
+   ```
+   The `--force` flag ensures that any local changes are overwritten automatically.
+
+2. **Replace existing files** automatically without prompts.
+
+3. **Launch CS2** to ensure the updated autoexec files are loaded.
 
 ## Directory Structure
 
