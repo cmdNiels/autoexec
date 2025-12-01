@@ -1,15 +1,3 @@
-bin/
-import_scripts/
-lighting/
-maps/
-panorama/
-rpt/
-save/
-shadercache/
-tools/
-
-backup_round*.txt
-
 *.bin
 *.fgd
 *.vpk
@@ -18,8 +6,6 @@ backup_round*.txt
 *.inf
 *.vcfg
 
-cfg/server_default.cfg
-cfg/perftest.cfg
-cfg/server.cfg
-
-resource/game-icon.bmp
+server_default.cfg
+perftest.cfg
+server.cfg
