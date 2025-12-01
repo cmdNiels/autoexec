@@ -30,7 +30,7 @@ This repository contains autoexec files for Counter-Strike 2.
 
 This should be cloned into the CS2 game directory under:
 ```
-Counter-Strike Global Offensive/game/csgo/
+Counter-Strike Global Offensive/game/csgo/cfg
 ```
 
 You can find this by right-clicking the game in your Steam library and under "Manage" click "Browse local files".
