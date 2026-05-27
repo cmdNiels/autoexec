@@ -6,6 +6,9 @@
 *.inf
 *.vcfg
 
+devonly/
+_refs/
+
 server_default.cfg
 perftest.cfg
 server.cfg
